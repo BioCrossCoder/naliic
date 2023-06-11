@@ -1,5 +1,5 @@
 {
-    "version":1,
+    "version":2,
     "complexes": {
         "101D": {
             "Title": "REFINEMENT OF NETROPSIN BOUND TO DNA: BIAS AND FEEDBACK IN ELECTRON DENSITY MAP INTERPRETATION",
@@ -14602,7 +14602,7 @@
             "Reference DOI": "10.1016/j.chembiol.2013.11.012",
             "Reference PMID": "24388757",
             "Docking Energy": "-401.227",
-            "Interaction Energy": null
+            "Interaction Energy": "205101.557"
         },
         "4LX5": {
             "Title": "X-RAY CRYSTAL STRUCTURE OF THE M6\" RIBOSWITCH APTAMER BOUND TO PYRIMIDO[4,5-D]PYRIMIDINE-2,4-DIAMINE (PPDA)",
@@ -15826,7 +15826,7 @@
             "Reference DOI": "10.1107/S2059798316001224",
             "Reference PMID": "27050127",
             "Docking Energy": "-3305.534",
-            "Interaction Energy": null
+            "Interaction Energy": "20094.191"
         },
         "5DAM": {
             "Title": "CRYSTAL STRUCTURE OF P-IODOHOECHST BOUND TO D(CGCAAATTTGCG)",
@@ -16353,7 +16353,7 @@
             "Reference DOI": "10.1093/NAR/GKW526",
             "Reference PMID": "27288442",
             "Docking Energy": "13.446",
-            "Interaction Energy": null
+            "Interaction Energy": "1827.170"
         },
         "5KEK": {
             "Title": "STRUCTURE DETERMINATION OF A SELF-ASSEMBLING DNA CRYSTAL",
@@ -16574,7 +16574,7 @@
             "Reference DOI": "10.15252/EMBR.201743967",
             "Reference PMID": "28623187",
             "Docking Energy": "-60.388",
-            "Interaction Energy": null
+            "Interaction Energy": "36299.222"
         },
         "5LR5": {
             "Title": "N6-METHYLADENINE IS ACCOMMODATED IN A CONVENTIONAL A-U BASEPAIR",
@@ -16591,7 +16591,7 @@
             "Reference DOI": "10.15252/EMBR.201743967",
             "Reference PMID": "28623187",
             "Docking Energy": "-185.771",
-            "Interaction Energy": null
+            "Interaction Energy": "136565.009"
         },
         "5LS8": {
             "Title": "LIGHT-ACTIVATED RUTHENIUM COMPLEX BOUND TO A DNA QUADRUPLEX",
@@ -16625,7 +16625,7 @@
             "Reference DOI": "10.1002/anie.201609184",
             "Reference PMID": "27885761",
             "Docking Energy": "512.685",
-            "Interaction Energy": null
+            "Interaction Energy": "17625.880"
         },
         "5LYV": {
             "Title": "THE CRYSTAL STRUCTURE OF 7SK 5'-HAIRPIN - OSMIUM DERIVATIVE",
@@ -16659,7 +16659,7 @@
             "Reference DOI": "10.1038/NSMB.3351",
             "Reference PMID": "28092367",
             "Docking Energy": "22.469",
-            "Interaction Energy": null
+            "Interaction Energy": "19514.225"
         },
         "5MVB": {
             "Title": "SOLUTION STRUCTURE OF A HUMAN G-QUADRUPLEX HYBRID-2 FORM IN COMPLEX WITH A GOLD-LIGAND.",
@@ -16999,7 +16999,7 @@
             "Reference DOI": "10.1093/NAR/GKX1211",
             "Reference PMID": "29194552",
             "Docking Energy": "28.784",
-            "Interaction Energy": null
+            "Interaction Energy": "7280.275"
         },
         "5ODM": {
             "Title": "NTIPR POLYAMIDE IN COMPLEX WITH 5'CGATGTACTACG3",
@@ -17067,7 +17067,7 @@
             "Reference DOI": "10.1038/NATURE20599",
             "Reference PMID": "27841871",
             "Docking Energy": "-20804.349",
-            "Interaction Energy": null
+            "Interaction Energy": "66199.401"
         },
         "5T3L": {
             "Title": "B-DNA (CGCGAATTCGCG)2 SOAKED WITH SELENOUREA FOR 1 MIN",
@@ -17101,7 +17101,7 @@
             "Reference DOI": "10.1107/S2053230X17011384",
             "Reference PMID": "28876227",
             "Docking Energy": "260.364",
-            "Interaction Energy": null
+            "Interaction Energy": "13946.046"
         },
         "5T83": {
             "Title": "STRUCTURE OF A GUANIDINE-I RIBOSWITCH FROM S. ACIDOPHILUS",
@@ -17254,7 +17254,7 @@
             "Reference DOI": "10.1021/acschembio.7b00180",
             "Reference PMID": "28437065",
             "Docking Energy": "-1879.076",
-            "Interaction Energy": null
+            "Interaction Energy": "25139.429"
         },
         "5V0H": {
             "Title": "RNA DUPLEX WITH 2-MEIMPG ANALOGUE BOUND-ONE BINDING SITE",
@@ -17305,7 +17305,7 @@
             "Reference DOI": "10.1021/JACS.7B11750",
             "Reference PMID": "29411978",
             "Docking Energy": "-142.848",
-            "Interaction Energy": null
+            "Interaction Energy": "20726.707"
         },
         "5V1L": {
             "Title": "STRUCTURE OF S-GNA DODECAMER",
@@ -17373,7 +17373,7 @@
             "Reference DOI": "10.1021/JACS.7B11750",
             "Reference PMID": "29411978",
             "Docking Energy": "-5923.101",
-            "Interaction Energy": null
+            "Interaction Energy": "22444.826"
         },
         "5VCF": {
             "Title": "RNA HAIRPIN STRUCTURE CONTAINING TETRALOOP/RECEPTOR MOTIF, COMPLEXED WITH 2-MEIMPG ANALOGUE",
@@ -17390,7 +17390,7 @@
             "Reference DOI": "10.1021/JACS.7B11750",
             "Reference PMID": "29411978",
             "Docking Energy": "-138.706",
-            "Interaction Energy": null
+            "Interaction Energy": "25217.565"
         },
         "5VCI": {
             "Title": "RNA HAIRPIN STRUCTURE CONTAINING TETRALOOP/RECEPTOR MOTIF, COMPLEXED WITH 2-MEIMPG ANALOGUE",
@@ -17407,7 +17407,7 @@
             "Reference DOI": "10.1021/JACS.7B11750",
             "Reference PMID": "29411978",
             "Docking Energy": "46.937",
-            "Interaction Energy": null
+            "Interaction Energy": "16239.467"
         },
         "5VJ9": {
             "Title": "GUANIDINE-II RIBOSWITCH P2 HAIRPIN DIMER FROM PSEUDOMONAS AERUGINOSA",
@@ -17458,7 +17458,7 @@
             "Reference DOI": "10.1021/JACS.7B07582",
             "Reference PMID": "28937776",
             "Docking Energy": "-52.790",
-            "Interaction Energy": null
+            "Interaction Energy": "21412.215"
         },
         "5VXQ": {
             "Title": "X-RAY CRYSTALLOGRAPHY STRUCTURE OF THE PARALLEL STRANDED DUPLEX FORMED BY 5-RA5-DA-RA5",
@@ -17594,7 +17594,7 @@
             "Reference DOI": "10.1038/s41467-018-05810-4",
             "Reference PMID": "30158518",
             "Docking Energy": "303.361",
-            "Interaction Energy": null
+            "Interaction Energy": "8249.943"
         },
         "5Z8F": {
             "Title": "SOLUTION STRUCTURE FOR THE UNIQUE DIMERIC 4:2 COMPLEX OF A PLATINUM(II)-BASED TRIPOD BOUND TO A HYBRID-1 HUMAN TELOMERIC G- QUADRUPLEX",
@@ -17696,7 +17696,7 @@
             "Reference DOI": "10.1002/CHEM.201704563",
             "Reference PMID": "29044822",
             "Docking Energy": "117.792",
-            "Interaction Energy": null
+            "Interaction Energy": "6361.132"
         },
         "6AZ4": {
             "Title": "RNA HAIRPIN COMPLEX WITH GUANOSINE DINUCLEOTIDE LIGAND G(5')PPP(5')G",
@@ -17713,7 +17713,7 @@
             "Reference DOI": "10.1021/JACS.7B11750",
             "Reference PMID": "29411978",
             "Docking Energy": "-115.562",
-            "Interaction Energy": null
+            "Interaction Energy": "22167.805"
         },
         "6BFB": {
             "Title": "CRYSTAL STRUCTURE OF A F. NUCLEATUM FMN RIBOSWITCH BOUND TO WG-3",
@@ -18053,7 +18053,7 @@
             "Reference DOI": "10.1002/ANIE.201804667",
             "Reference PMID": "29888501",
             "Docking Energy": "83.853",
-            "Interaction Energy": null
+            "Interaction Energy": "13518.829"
         },
         "6CHR": {
             "Title": "CRYSTAL STRUCTURE OF A GROUP II INTRON LARIAT WITH AN INTACT 3' SPLICE SITE (PRE-2S STATE)",
@@ -18172,7 +18172,7 @@
             "Reference DOI": "10.1093/nar/gky1197",
             "Reference PMID": "30481318",
             "Docking Energy": "-2426.437",
-            "Interaction Energy": null
+            "Interaction Energy": "28037.082"
         },
         "6D3P": {
             "Title": "CRYSTAL STRUCTURE OF AN EXORIBONUCLEASE-RESISTANT RNA FROM SWEET CLOVER NECROTIC MOSAIC VIRUS (SCNMV)",
@@ -18393,7 +18393,7 @@
             "Reference DOI": "10.1038/s41467-019-09493-3",
             "Reference PMID": "30940810",
             "Docking Energy": "34.341",
-            "Interaction Energy": null
+            "Interaction Energy": "505910.470"
         },
         "6E1T": {
             "Title": "CRYSTAL STRUCTURE OF A CLASS I PREQ1 RIBOSWITCH COMPLEXED WITH A SYNTHETIC COMPOUND 1: 2-[(DIBENZO[B,D]FURAN-2-YL)OXY]ETHAN-1-AMINE",
@@ -18444,7 +18444,7 @@
             "Reference DOI": "10.1038/s41467-019-09493-3",
             "Reference PMID": "30940810",
             "Docking Energy": "185.308",
-            "Interaction Energy": null
+            "Interaction Energy": "110898.850"
         },
         "6E1W": {
             "Title": "CRYSTAL STRUCTURE OF A CLASS I PREQ1 RIBOSWITCH COMPLEXED WITH PREQ1",
@@ -18614,7 +18614,7 @@
             "Reference DOI": "10.1002/CHEM.202005026",
             "Reference PMID": "33368678",
             "Docking Energy": "-470.827",
-            "Interaction Energy": null
+            "Interaction Energy": "12415.896"
         },
         "6FZ0": {
             "Title": "CRYSTAL STRUCTURE OF THE METY SAM V RIBOSWITCH",
@@ -18733,7 +18733,7 @@
             "Reference DOI": "10.1002/chem.201805338",
             "Reference PMID": "30407668",
             "Docking Energy": "167.065",
-            "Interaction Energy": null
+            "Interaction Energy": "8054.863"
         },
         "6GZK": {
             "Title": "SOLUTION NMR STRUCTURE OF THE TETRAMETHYLRHODAMINE (TMR) APTAMER 3 IN COMPLEX WITH 5-TAMRA",
@@ -18750,7 +18750,7 @@
             "Reference DOI": "10.1093/NAR/GKZ1113",
             "Reference PMID": "31754719",
             "Docking Energy": "-43.478",
-            "Interaction Energy": null
+            "Interaction Energy": "18205.902"
         },
         "6GZR": {
             "Title": "SOLUTION NMR STRUCTURE OF THE TETRAMETHYLRHODAMINE (TMR) APTAMER 3 IN COMPLEX WITH 5-TAMRA",
@@ -18767,7 +18767,7 @@
             "Reference DOI": "10.1093/NAR/GKZ1113",
             "Reference PMID": "31754719",
             "Docking Energy": "-26.914",
-            "Interaction Energy": null
+            "Interaction Energy": "18360.879"
         },
         "6H5R": {
             "Title": "STRUCTURE OF THE COMPLEX OF A HUMAN TELOMERIC DNA WITH BIS(1-BUTYL-3- METHYL-IMIDAZOLE-2-YLIDENE) GOLD(I)",
@@ -18801,7 +18801,7 @@
             "Reference DOI": "10.1093/nar/gky1283",
             "Reference PMID": "30590743",
             "Docking Energy": "-38.671",
-            "Interaction Energy": null
+            "Interaction Energy": "16118.094"
         },
         "6HBT": {
             "Title": "THE STRUCTURE OF THE G. VIOLACEUS GUANIDINE II RIBOSWITCH P2 STEM-LOOP WITH ARCAINE",
@@ -18869,7 +18869,7 @@
             "Reference DOI": "10.1038/s41589-019-0384-5",
             "Reference PMID": "31636429",
             "Docking Energy": "132.841",
-            "Interaction Energy": null
+            "Interaction Energy": "7180.568"
         },
         "6HU6": {
             "Title": "STRUCTURE OF ARF1 RNA",
@@ -18903,7 +18903,7 @@
             "Reference DOI": "10.1021/JACS.8B12444",
             "Reference PMID": "31117639",
             "Docking Energy": "123.284",
-            "Interaction Energy": null
+            "Interaction Energy": "8038.333"
         },
         "6IA2": {
             "Title": "CRYSTAL STRUCTURE OF A SELF-COMPLEMENTARY RNA DUPLEX RECOGNIZED BY COM",
@@ -18937,7 +18937,7 @@
             "Reference DOI": "10.1107/S2052252519003622",
             "Reference PMID": "31098026",
             "Docking Energy": "-992.095",
-            "Interaction Energy": null
+            "Interaction Energy": "61192.966"
         },
         "6IJV": {
             "Title": "SOLUTION NMR STRUCTURE OF A 14-MER DSDNA COMPLEXED WITH A NOVEL NIR FLUORESCENT PROBE QCY-DT",
@@ -18954,7 +18954,7 @@
             "Reference DOI": "10.1021/acs.biochem.1c00281",
             "Reference PMID": "34142803",
             "Docking Energy": "275.762",
-            "Interaction Energy": null
+            "Interaction Energy": "13229.491"
         },
         "6IJW": {
             "Title": "SOLUTION NMR STRUCTURE OF A DODECAMERIC DSDNA COMPLEXED WITH A NIR FLUORESCENT PROBE QCY-DT",
@@ -18971,7 +18971,7 @@
             "Reference DOI": "10.1021/acs.biochem.1c00281",
             "Reference PMID": "34142803",
             "Docking Energy": "301.922",
-            "Interaction Energy": null
+            "Interaction Energy": "11246.934"
         },
         "6IZP": {
             "Title": "SOLUTION STRUCTURE OF THE COMPLEX OF NAPHTHYRIDINE CARBAMATE DIMER AND AN RNA WITH UGGAA-UGGAA PENTAD",
@@ -19005,7 +19005,7 @@
             "Reference DOI": "10.1093/nar/gkz336",
             "Reference PMID": "31062016",
             "Docking Energy": "201.368",
-            "Interaction Energy": null
+            "Interaction Energy": "6673.329"
         },
         "6JJ0": {
             "Title": "NMR STRUCTURE OF THE 1:1 COMPLEX OF A CARBAZOLE DERIVATIVE BMVC BOUND TO C-MYC G-QUADRUPLEX",
@@ -19022,7 +19022,7 @@
             "Reference DOI": "10.1093/nar/gkz1015",
             "Reference PMID": "31740959",
             "Docking Energy": "236.854",
-            "Interaction Energy": null
+            "Interaction Energy": "5994.486"
         },
         "6JJF": {
             "Title": "CRYSTAL STRUCTURE OF A TWO-QUARTET DNA MIXED-PARALLEL/ANTIPARALLEL G- QUADRUPLEX",
@@ -19107,7 +19107,7 @@
             "Reference DOI": "10.1039/d0cc00221f",
             "Reference PMID": "32025680",
             "Docking Energy": "-539.750",
-            "Interaction Energy": null
+            "Interaction Energy": "11714.063"
         },
         "6JWE": {
             "Title": "STRUCTURE OF RET G-QUADRUPLEX IN COMPLEX WITH COLCHICINE",
@@ -19124,7 +19124,7 @@
             "Reference DOI": "10.1039/d0cc00221f",
             "Reference PMID": "32025680",
             "Docking Energy": "-64.020",
-            "Interaction Energy": null
+            "Interaction Energy": "11312.855"
         },
         "6K3Y": {
             "Title": "G-QUADRUPLEX COMPLEX WITH CYCLIC DINUCLEOTIDE 3'-3' CGAMP",
@@ -19141,7 +19141,7 @@
             "Reference DOI": "10.1021/JACS.9B05642",
             "Reference PMID": "31661272",
             "Docking Energy": "-126.049",
-            "Interaction Energy": null
+            "Interaction Energy": "8049.222"
         },
         "6KFI": {
             "Title": "NMR SOLUTION STRUCTURE OF THE 1:1 COMPLEX OF TEL26 G-QUADRUPLEX AND A TRIPODAL CATIONIC FLUORESCENT PROBE NBTE",
@@ -19158,7 +19158,7 @@
             "Reference DOI": "10.1002/anie.202002422",
             "Reference PMID": "32173994",
             "Docking Energy": "217.961",
-            "Interaction Energy": null
+            "Interaction Energy": "10341.641"
         },
         "6KFJ": {
             "Title": "NMR SOLUTION STRUCTURE OF THE 1:1 COMPLEX OF WTTEL26 G-QUADRUPLEX AND A TRIPODAL CATIONIC FLUORESCENT PROBE NBTE",
@@ -19175,7 +19175,7 @@
             "Reference DOI": "10.1002/ANIE.202002422",
             "Reference PMID": "32173994",
             "Docking Energy": "224.952",
-            "Interaction Energy": null
+            "Interaction Energy": "6806.972"
         },
         "6KN4": {
             "Title": "HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 ADRIAMYCIN (DM2) MOLECULES",
@@ -19226,7 +19226,7 @@
             "Reference DOI": "10.1002/anie.202104624",
             "Reference PMID": "33899272",
             "Docking Energy": "200.507",
-            "Interaction Energy": null
+            "Interaction Energy": "9642.561"
         },
         "6M4T": {
             "Title": "U SHAPED HEAD TO HEAD FOUR-WAY JUNCTION IN D(TTCTGCTGCTGAA) SEQUENCE",
@@ -19464,7 +19464,7 @@
             "Reference DOI": "10.1093/nar/gkz832",
             "Reference PMID": "31566242",
             "Docking Energy": "-153.981",
-            "Interaction Energy": null
+            "Interaction Energy": "2985.517"
         },
         "6QJS": {
             "Title": "CRYSTAL STRUCTURE OF A DNA DODECAMER CONTAINING A TETRAMETHYLPIPERIDINOXYL (NITROXIDE) SPIN LABEL",
@@ -19532,7 +19532,7 @@
             "Reference DOI": "10.1021/jacs.8b12444",
             "Reference PMID": "31117639",
             "Docking Energy": "-134.100",
-            "Interaction Energy": null
+            "Interaction Energy": "8477.028"
         },
         "6RNL": {
             "Title": "L-[RU(TAP)2(DPPZ)]2+ BOUND TO THE G-QUADRUPLEX FORMING SEQUENCE D(TAGGGTT)",
@@ -19617,7 +19617,7 @@
             "Reference DOI": "10.1002/chem.201904923",
             "Reference PMID": "31750579",
             "Docking Energy": "382.786",
-            "Interaction Energy": null
+            "Interaction Energy": "10374.865"
         },
         "6T3K": {
             "Title": "STRUCTURE OF OCEANOBACILLUS IHEYENSIS GROUP II INTRON G-MUTANT (C289G/C358G/G385C) IN THE PRESENCE OF K+, MG2+ AND 5'-EXON",
@@ -20008,7 +20008,7 @@
             "Reference DOI": "10.1038/s41467-019-13494-7",
             "Reference PMID": "31796736",
             "Docking Energy": "4458.924",
-            "Interaction Energy": null
+            "Interaction Energy": "67705.296"
         },
         "6UFM": {
             "Title": "COCRYSTAL STRUCTURE OF THE NOCARDIA FARCINICA ILES T-BOX RIBOSWITCH IN COMPLEX WITH ITS COGNATE TRNA",
@@ -20042,7 +20042,7 @@
             "Reference DOI": "10.1261/RNA.073478.119",
             "Reference PMID": "31848215",
             "Docking Energy": "-11.664",
-            "Interaction Energy": null
+            "Interaction Energy": "109999.386"
         },
         "6UGJ": {
             "Title": "CRYSTAL STRUCTURE OF A FRAGMENT OF E. COLI TRNA(ASP) CONSISTING OF ITS ACCEPTOR STEM/T STEM-LOOP. SHORT UNIT CELL.",
@@ -20093,7 +20093,7 @@
             "Reference DOI": "10.1021/jacs.9b12770",
             "Reference PMID": "32101424",
             "Docking Energy": "-215.498",
-            "Interaction Energy": null
+            "Interaction Energy": "6433.890"
         },
         "6V6R": {
             "Title": "CRYSTAL STRUCTURE OF A BROMINE DERIVATIZED SELF-ASSEMBLING DNA CRYSTAL SCAFFOLD WITH RHOMBOHEDRAL SYMMETRY.",
@@ -20161,7 +20161,7 @@
             "Reference DOI": "10.1021/jacs.0c00768",
             "Reference PMID": "32364710",
             "Docking Energy": "215.015",
-            "Interaction Energy": null
+            "Interaction Energy": "6994.619"
         },
         "6VA3": {
             "Title": "SOLUTION STRUCTURE OF THE TAU PRE-MRNA EXON 10 SPLICING REGULATORY ELEMENT BOUND TO MQC",
@@ -20178,7 +20178,7 @@
             "Reference DOI": "10.1021/jacs.0c00768",
             "Reference PMID": "32364710",
             "Docking Energy": "177.728",
-            "Interaction Energy": null
+            "Interaction Energy": "7046.528"
         },
         "6VA4": {
             "Title": "SOLUTION STRUCTURE OF THE TAU PRE-MRNA EXON 10 SPLICING REGULATORY ELEMENT BOUND TO MIP",
@@ -20195,7 +20195,7 @@
             "Reference DOI": "10.1021/jacs.0c00768",
             "Reference PMID": "32364710",
             "Docking Energy": "210.105",
-            "Interaction Energy": null
+            "Interaction Energy": "6852.604"
         },
         "6VEM": {
             "Title": "STRUCTURE OF RNA OCTAMER",
@@ -20314,7 +20314,7 @@
             "Reference DOI": "10.1016/J.YJSBX.2020.100035",
             "Reference PMID": "33103111",
             "Docking Energy": "-3182.378",
-            "Interaction Energy": null
+            "Interaction Energy": "191109.020"
         },
         "6WK7": {
             "Title": "CRYSTAL STRUCTURE ANALYSIS OF A POLY(THYMINE) DNA DUPLEX",
@@ -20382,7 +20382,7 @@
             "Reference DOI": "10.1038/S41467-020-18594-3",
             "Reference PMID": "32963221",
             "Docking Energy": "14.224",
-            "Interaction Energy": null
+            "Interaction Energy": "13571.183"
         },
         "6XCL": {
             "Title": "CRYSTAL STRUCTURE OF HUMAN TELOMERIC DNA G-QUADRUPLEX IN COMPLEX WITH A NOVEL PLATINUM(II) COMPLEX.",
@@ -20824,7 +20824,7 @@
             "Reference DOI": "10.1002/anie.202106256",
             "Reference PMID": "34288320",
             "Docking Energy": "297.729",
-            "Interaction Energy": null
+            "Interaction Energy": "13000.723"
         },
         "7ELP": {
             "Title": "CRYSTAL STRUCTURE OF XANTHINE RIBOSWITCH WITH XANTHINE, IRIDIUM HEXAMMINE SOAK",
@@ -21079,7 +21079,7 @@
             "Reference DOI": "10.1093/jb/mvab124",
             "Reference PMID": "34791286",
             "Docking Energy": "-421.007",
-            "Interaction Energy": null
+            "Interaction Energy": "15705.791"
         },
         "7FJ0": {
             "Title": "INTERACTION BETWEEN A FLUOROQUINOLONE DERIVATIVE AND RNAS WITH A SINGLE BULGE",
@@ -21096,7 +21096,7 @@
             "Reference DOI": "10.1093/jb/mvab124",
             "Reference PMID": "34791286",
             "Docking Energy": "-492.075",
-            "Interaction Energy": null
+            "Interaction Energy": "15272.396"
         },
         "7JJU": {
             "Title": "CRYSTAL STRUCTURE OF EN EXORIBONUCLEASE-RESISTANT RNA (XRRNA) FROM POTATO LEAFROLL VIRUS (PLRV)",
@@ -21402,7 +21402,7 @@
             "Reference DOI": "10.1093/NAR/GKAB256",
             "Reference PMID": "33856457",
             "Docking Energy": "-77.145",
-            "Interaction Energy": null
+            "Interaction Energy": "16757.524"
         },
         "7LNE": {
             "Title": "ANA MODIFICATION AT 3' END OF RNA PRIMER COMPLEX WITH GUANOSINE DINUCLEOTIDE LIGAND G(5')PPP(5')G",
@@ -21623,7 +21623,7 @@
             "Reference DOI": "10.1002/chem.202103718",
             "Reference PMID": "34905232",
             "Docking Energy": "266.531",
-            "Interaction Energy": null
+            "Interaction Energy": "11619.824"
         },
         "7REX": {
             "Title": "PREQ1-1 (TYPE-1) RIBOSWITCH IN COMPLEX WITH TANDEM STACKED METABOLITES",
